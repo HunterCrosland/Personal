@@ -1,0 +1,34 @@
+﻿  test.cpp
+C:\Users\LennyRogan\source\repos\10C\HW5\rbt.h(1353,16): warning C4101: 'x': unreferenced local variable
+C:\Users\LennyRogan\source\repos\10C\HW5\rbt.h(1343): message : while compiling class template member function 'void pic10c::rbt<std::string,std::less<T>>::erase(const pic10c::rbt<T,std::less<T>>::templated_iterator<false> &)'
+          with
+          [
+              T=std::string
+          ]
+C:\Users\LennyRogan\source\repos\10C\HW5\test.cpp(59): message : see reference to function template instantiation 'void pic10c::rbt<std::string,std::less<T>>::erase(const pic10c::rbt<T,std::less<T>>::templated_iterator<false> &)' being compiled
+          with
+          [
+              T=std::string
+          ]
+C:\Users\LennyRogan\source\repos\10C\HW5\test.cpp(38): message : see reference to class template instantiation 'pic10c::rbt<std::string,std::less<T>>' being compiled
+          with
+          [
+              T=std::string
+          ]
+C:\Users\LennyRogan\source\repos\10C\HW5\rbt.h(1330,16): warning C4101: 'x': unreferenced local variable
+C:\Users\LennyRogan\source\repos\10C\HW5\rbt.h(1319): message : while compiling class template member function 'void pic10c::rbt<int,std::less<T>>::erase(pic10c::rbt<T,std::less<T>>::templated_iterator<false> &)'
+          with
+          [
+              T=int
+          ]
+C:\Users\LennyRogan\source\repos\10C\HW5\test.cpp(27): message : see reference to function template instantiation 'void pic10c::rbt<int,std::less<T>>::erase(pic10c::rbt<T,std::less<T>>::templated_iterator<false> &)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\LennyRogan\source\repos\10C\HW5\test.cpp(19): message : see reference to class template instantiation 'pic10c::rbt<int,std::less<T>>' being compiled
+          with
+          [
+              T=int
+          ]
+  Red-Black Tree.vcxproj -> C:\Users\LennyRogan\source\repos\10C\HW5\x64\Debug\red_black_tree.exe
