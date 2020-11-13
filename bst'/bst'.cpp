@@ -23,11 +23,11 @@ int main() {
 	b1.insert(4);
 	b1.insert(0);
 
-	//// print the values: requires proper iterators for range-for
-	//std::cout << "b1:\n";
-	//for (const auto& i : b1) {
-	//	std::cout << i << '\n';
-	//}
+	// print the values: requires proper iterators for range-for
+ 	std::cout << "b1:\n";
+	for (const auto& i : b1) {
+ 		std::cout << i << '\n';
+	}
 
 	pic10c::bst<std::string, bool (*)(std::string, std::string)> b2(rev_str);
 
@@ -48,17 +48,17 @@ int main() {
 	std::cout << "size b3 " << b3.size() << '\n';
 	std::cout << "size b4 " << b4.size() << '\n';
 
-	//std::cout << "iterator stuff:\n";
-	//pic10c::bst<std::string, decltype(&rev_str)>::iterator it =
-	//	b4.begin();
-	//std::cout << *it << '\n';
-	//std::cout << it->size() << '\n';
-	//b4.erase(it);
+	std::cout << "iterator stuff:\n";
+	pic10c::bst<std::string, decltype(&rev_str)>::iterator it =
+		b4.begin();
+	std::cout << *it << '\n';
+	std::cout << it->size() << '\n';
+	b4.erase(it);
 
-	//std::cout << "b4:\n";
-	//for (const auto& s : b4) { // no more "aaa"
-	//	std::cout << s << '\n';
-	//}
+	std::cout << "b4:\n";
+	for (const auto& s : b4) { // no more "aaa"
+		std::cout << s << '\n';
+	}
 
 	return 0;
 }

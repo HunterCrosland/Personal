@@ -1,0 +1,7 @@
+﻿  Game.cpp
+C:\Users\LennyRogan\source\repos\10C\HW6\Game.h(260,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+C:\Users\LennyRogan\source\repos\10C\HW6\Game.h(260,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\LennyRogan\source\repos\10C\HW6\Source.cpp(15,55): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\LennyRogan\source\repos\10C\HW6\Source.cpp(15,43): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  HW6.vcxproj -> C:\Users\LennyRogan\source\repos\10C\HW6\x64\Debug\HW6.exe
