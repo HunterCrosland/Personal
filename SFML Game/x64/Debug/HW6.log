@@ -1,0 +1,8 @@
+﻿  jump.cpp
+C:\Users\LennyRogan\source\repos\10C\HW6\jump.h(130,44): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\LennyRogan\source\repos\10C\HW6\jump.cpp(166,43): warning C4804: '<': unsafe use of type 'bool' in operation
+  main.cpp
+C:\Users\LennyRogan\source\repos\10C\HW6\jump.h(130,44): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\LennyRogan\source\repos\10C\HW6\main.cpp(15,55): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\LennyRogan\source\repos\10C\HW6\main.cpp(15,43): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  HW6.vcxproj -> C:\Users\LennyRogan\source\repos\10C\HW6\x64\Debug\HW6.exe
