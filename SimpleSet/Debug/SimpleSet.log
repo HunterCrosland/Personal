@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\LennyRogan\source\repos\10C\SimpleSet\SimpleSet.h(62): warning C4715: 'pic10c::simple_set<float>::find': not all control paths return a value
+C:\Users\LennyRogan\source\repos\10C\SimpleSet\SimpleSet.h(180): warning C4715: 'pic10c::simple_set<bool>::find': not all control paths return a value
+  SimpleSet.vcxproj -> C:\Users\LennyRogan\source\repos\10C\SimpleSet\Debug\SimpleSet.exe

@@ -1,0 +1,2 @@
+C:\Users\LennyRogan\source\repos\10C\SimpleSet\Debug\SimpleSet.exe
+C:\Users\LennyRogan\source\repos\10C\SimpleSet\Debug\SimpleSet.pdb
