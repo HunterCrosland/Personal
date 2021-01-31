@@ -1,3 +1,20 @@
+/*******************************************************
+ * Copyright (C) Hunter Crosland <hunter@croslands.com>
+ *
+ * This file is part of my work at UCLA.
+ *
+ * compare.h and compare.cpp can not be copied and/or 
+ * distributed without the express permission of Hunter 
+ * Crosland
+ *******************************************************/
+
+ /**
+	The following, along with compare.cpp,
+	is an implementation of a plagiarism detector
+*/
+
+
+
 #include <iostream>
 #include <filesystem>
 #include <vector>
@@ -12,8 +29,9 @@
 	@class compare
 	@brief The compare class is a set of functions for comparing files at certain directories
 
-	The bst class privately contains a pointer to a root_dir, passed in through the constructor, and a vector of paths to
-	files for comparison. Publicly, it contains functions that make those comparisons.
+	The bst class privately contains a pointer to a root_dir, passed in through the constructor, 
+	and a vector of paths to files for comparison. Publicly, it contains functions that make 
+	those comparisons.
 */
 class compare
 {

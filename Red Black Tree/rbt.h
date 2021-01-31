@@ -1,5 +1,18 @@
-#ifndef RBT_H
-#define RBT_H
+/*******************************************************
+ * Copyright (C) Hunter Crosland <hunter@croslands.com>
+ *
+ * This file is part of my work at UCLA.
+ *
+ * rbt.h can not be copied and/or distributed without the express
+ * permission of Hunter Crosland
+ *******************************************************/
+
+ /**
+	The following is an implementation of the red-black tree data structure.
+*/
+
+#ifndef RED_BLACK_TREE_H
+#define RED_BLACK_TREE_H
 
 #include<utility>
 #include<stdexcept>

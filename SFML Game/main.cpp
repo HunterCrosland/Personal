@@ -16,14 +16,6 @@ int main()
     //minimizes graphical compute utilization
     window.setFramerateLimit(60);
 
-    //shape.setOrigin(shape.getRadius(), shape.getRadius()); //set origin of circle for centering
-    //shape.setPosition(200, 200); //set pos of circle based on window resolution
-    //shape.setFillColor(sf::Color{ 255,209,0,255 }); //set color of circle to UCLA Gold
-
-    
-
-    
-
     sf::Clock clock;
     sf::Time time1 = sf::seconds(0);
     sf::Time time2 = sf::seconds(0);

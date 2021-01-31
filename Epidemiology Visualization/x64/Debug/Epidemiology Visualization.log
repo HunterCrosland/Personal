@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\LennyRogan\source\repos\10C\Epidemiology Visualization\main.cpp(10,52): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\LennyRogan\source\repos\10C\Epidemiology Visualization\main.cpp(10,40): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+  spread_engine.cpp
+  Generating Code...
+  Epidemiology Visualization.vcxproj -> C:\Users\LennyRogan\source\repos\10C\Epidemiology Visualization\x64\Debug\Epidemiology Visualization.exe

@@ -1,0 +1,4 @@
+C:\Users\LennyRogan\source\repos\messenger\x64\Debug\messenger.exe
+C:\Users\LennyRogan\source\repos\messenger\x64\Debug\messenger.pdb
+C:\Users\LennyRogan\source\repos\10C\messenger\x64\Debug\messenger.exe
+C:\Users\LennyRogan\source\repos\10C\messenger\x64\Debug\messenger.pdb

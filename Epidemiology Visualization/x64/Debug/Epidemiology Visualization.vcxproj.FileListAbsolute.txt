@@ -1,0 +1,2 @@
+C:\Users\LennyRogan\source\repos\10C\Epidemiology Visualization\x64\Debug\Epidemiology Visualization.exe
+C:\Users\LennyRogan\source\repos\10C\Epidemiology Visualization\x64\Debug\Epidemiology Visualization.pdb

@@ -41,4 +41,4 @@ int main() {
 	std::cout << bools.size() << '\n';
 	std::cout << line;
 	return 0;
-}
+}
